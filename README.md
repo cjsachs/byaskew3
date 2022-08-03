@@ -1,5 +1,5 @@
 # Hi there! I'm Christian! 👋🏼
-# A U.S. Navy Veteran that has become obsessed with Web Development.
+# Coding Temple Instructor.
 
 <img src="https://github-readme-stats.vercel.app/api?username=byaskew3&show_icons=true&theme=radical" />
 
