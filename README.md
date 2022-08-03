@@ -1,5 +1,6 @@
 # Hi there! I'm Christian! 👋🏼
-# Coding Temple Instructor.
+# I enjoy teaching and learning all things code!
+# Coding Temple Instructor
 
 <img src="https://github-readme-stats.vercel.app/api?username=byaskew3&show_icons=true&theme=radical" />
 
