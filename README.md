@@ -2,8 +2,6 @@
 # I enjoy teaching and learning all things code!
 # Coding Temple Instructor
 
-<img src="https://github-readme-stats.vercel.app/api?username=byaskew3&show_icons=true&theme=radical" />
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
